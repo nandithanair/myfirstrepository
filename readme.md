@@ -19,6 +19,6 @@ Tables aren't v easy to create in markdown, but there are sites where you can ma
 
 | Pie name | Number of Pies |
 |----------|----------------|
-| Apple  | Number of Pies |
-| Pie name | Number of Pies |
-| Pie name | Number of Pies |
+| Apple  | 1 |
+| Pumpkin | 8087 |
+| Shepherd's | 652958 |
